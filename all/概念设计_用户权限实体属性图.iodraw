@@ -7,8 +7,8 @@
         <mxCell id="e_user" value="用户(user_info)" style="ellipse;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="340" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_uid" value="user_id(PK)" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="200" y="180" width="120" height="40" as="geometry" />
+        <mxCell id="a_uid" value="user_id(PK)" style="ellipse;fontSize=12;rotation=10;" parent="1" vertex="1">
+          <mxGeometry x="270" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_ucode" value="user_code" style="ellipse;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="680" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_utype" value="user_type" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="200" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_ustate" value="user_state" style="ellipse;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="550" y="470" width="120" height="40" as="geometry" />
