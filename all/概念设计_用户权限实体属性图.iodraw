@@ -11,13 +11,16 @@
           <mxGeometry x="270" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_ucode" value="user_code" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hV844KTqMwOaHU7cI2Zz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_uname" target="a_upwd">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a_uname" value="user_name" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_upwd" value="user_pwd" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="680" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_utype" value="user_type" style="ellipse;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="330" y="460" width="120" height="40" as="geometry" />
