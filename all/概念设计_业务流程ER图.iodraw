@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="200" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="est" value="仓库" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="990" y="120" width="140" height="55" as="geometry" />
+          <mxGeometry x="1000" y="100" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eb" value="采购单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="140" height="55" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="480" y="80" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eo" value="出库单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="680" y="80" width="140" height="55" as="geometry" />
+          <mxGeometry x="750" y="320" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="et" value="调货单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="880" y="200" width="140" height="55" as="geometry" />
+          <mxGeometry x="850" y="450" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="etr" value="产品追溯" style="ellipse;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="570" y="530" width="140" height="55" as="geometry" />
