@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="业务流程ER图">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" pageWidth="1654" pageHeight="1169">
+      <root>
+        <mxCell id="0"/><mxCell id="1" parent="0"/>
+
+        <!-- 商品 -->
+        <mxCell id="ep" value="商品" style="ellipse;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="560" y="400" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 供应商 -->
+        <mxCell id="es" value="供应商" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="80" y="200" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 仓库 -->
+        <mxCell id="est" value="仓库" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="1100" y="400" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 采购单 -->
+        <mxCell id="eb" value="采购单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="280" y="200" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 入库单 -->
+        <mxCell id="ei" value="入库单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="480" y="80" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 出库单 -->
+        <mxCell id="eo" value="出库单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="680" y="80" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 调货单 -->
+        <mxCell id="et" value="调货单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="880" y="200" width="140" height="55" as="geometry"/></mxCell>
+        <!-- 产品追溯 -->
+        <mxCell id="etr" value="产品追溯" style="ellipse;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="560" y="600" width="140" height="55" as="geometry"/></mxCell>
+
+        <!-- 关系菱形 -->
+        <mxCell id="r1" value="供货" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="200" y="290" width="80" height="50" as="geometry"/></mxCell>
+        <mxCell id="r2" value="采购" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="420" y="200" width="80" height="50" as="geometry"/></mxCell>
+        <mxCell id="r3" value="入库" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="540" y="240" width="80" height="50" as="geometry"/></mxCell>
+        <mxCell id="r4" value="出库" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="700" y="240" width="80" height="50" as="geometry"/></mxCell>
+        <mxCell id="r5" value="调拨" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="860" y="340" width="80" height="50" as="geometry"/></mxCell>
+        <mxCell id="r6" value="记录" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="560" y="510" width="80" height="50" as="geometry"/></mxCell>
+
+        <!-- 连线 -->
+        <mxCell id="l1" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="es" target="r1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l2" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r1" target="eb"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l3" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="eb" target="r2"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l4" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r2" target="ep"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l5" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="ei" target="r3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l6" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r3" target="ep"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l7" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="eo" target="r4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l8" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r4" target="ep"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l9" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="et" target="r5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l10" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r5" target="ep"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l11" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r5" target="est"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l12" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="ep" target="r6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l13" value="N" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r6" target="etr"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l14" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r3" target="est"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="l15" value="1" style="strokeColor=black;fontSize=11;fontStyle=1;" edge="1" parent="1" source="r4" target="est"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+        <!-- 采购转入库 -->
+        <mxCell id="l16" value="转入库" style="strokeColor=#82b366;dashed=1;fontSize=11;" edge="1" parent="1" source="eb" target="ei"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
