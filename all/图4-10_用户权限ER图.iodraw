@@ -1,92 +1,243 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net">
-  <diagram name="图4-10 用户权限ER图">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" pageWidth="1169" pageHeight="827">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="图4-10 用户权限ER图" id="0">
+    <mxGraphModel dx="1423" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        <mxCell id="0"/><mxCell id="1" parent="0"/>
-        <mxCell id="u" value="user_info(用户)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="40" y="80" width="220" height="200" as="geometry"/></mxCell>
-        <mxCell id="u1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="u"><mxGeometry y="30" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" vertex="1" parent="u1"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u1b" value="user_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u1"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="u2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u"><mxGeometry y="58" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u2"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u2b" value="user_code : VARCHAR(50)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u2"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="u3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u"><mxGeometry y="86" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u3"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u3b" value="user_name : VARCHAR(50)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u3"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="u4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u"><mxGeometry y="114" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u4"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u4b" value="user_type : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u4"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="u5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u"><mxGeometry y="142" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u5"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u5b" value="user_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u5"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="u6" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u"><mxGeometry y="170" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="u6a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u6"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="u6b" value="is_delete : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="u6"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-
-        <mxCell id="ur" value="user_role(用户角色关联)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;" vertex="1" parent="1"><mxGeometry x="360" y="160" width="200" height="114" as="geometry"/></mxCell>
-        <mxCell id="ur1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ur"><mxGeometry y="30" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" vertex="1" parent="ur1"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur1b" value="user_role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ur1"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ur"><mxGeometry y="58" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur2a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" vertex="1" parent="ur2"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur2b" value="user_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ur2"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ur"><mxGeometry y="86" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur3a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" vertex="1" parent="ur3"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ur3b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ur3"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-
-        <mxCell id="r" value="role(角色)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="660" y="80" width="220" height="172" as="geometry"/></mxCell>
-        <mxCell id="r1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="r"><mxGeometry y="30" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="r1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" vertex="1" parent="r1"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="r1b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r1"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="r2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r"><mxGeometry y="58" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="r2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r2"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="r2b" value="role_name : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r2"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="r3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r"><mxGeometry y="86" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="r3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r3"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="r3b" value="role_code : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r3"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="r4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r"><mxGeometry y="114" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="r4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r4"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="r4b" value="role_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r4"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="r5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r"><mxGeometry y="142" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="r5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r5"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="r5b" value="role_desc : VARCHAR(300)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="r5"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-
-        <mxCell id="ra" value="role_auth(角色权限关联)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;" vertex="1" parent="1"><mxGeometry x="660" y="360" width="200" height="114" as="geometry"/></mxCell>
-        <mxCell id="ra1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ra"><mxGeometry y="30" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" vertex="1" parent="ra1"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra1b" value="role_auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ra1"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ra"><mxGeometry y="58" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra2a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" vertex="1" parent="ra2"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra2b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ra2"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ra"><mxGeometry y="86" width="200" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra3a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" vertex="1" parent="ra3"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="ra3b" value="auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="ra3"><mxGeometry x="40" width="160" height="28" as="geometry"/></mxCell>
-
-        <mxCell id="a" value="auth_info(权限)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="980" y="280" width="220" height="200" as="geometry"/></mxCell>
-        <mxCell id="a1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="a"><mxGeometry y="30" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" vertex="1" parent="a1"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a1b" value="auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a1"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="a2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="a"><mxGeometry y="58" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a2"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a2b" value="parent_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a2"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="a3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="a"><mxGeometry y="86" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a3"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a3b" value="auth_name : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a3"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="a4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="a"><mxGeometry y="114" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a4"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a4b" value="auth_type : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a4"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="a5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="a"><mxGeometry y="142" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a5"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a5b" value="auth_url : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a5"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-        <mxCell id="a6" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="a"><mxGeometry y="170" width="220" height="28" as="geometry"/></mxCell>
-        <mxCell id="a6a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a6"><mxGeometry width="40" height="28" as="geometry"/></mxCell>
-        <mxCell id="a6b" value="auth_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" vertex="1" parent="a6"><mxGeometry x="40" width="180" height="28" as="geometry"/></mxCell>
-
-        <mxCell id="e1" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" edge="1" parent="1" source="u1" target="ur2"><mxGeometry relative="1" as="geometry"/></mxCell>
-        <mxCell id="e2" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" edge="1" parent="1" source="r1" target="ur3"><mxGeometry relative="1" as="geometry"/></mxCell>
-        <mxCell id="e3" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" edge="1" parent="1" source="r1" target="ra2"><mxGeometry relative="1" as="geometry"/></mxCell>
-        <mxCell id="e4" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" edge="1" parent="1" source="a1" target="ra3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u" value="user_info(用户)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="u1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="u" vertex="1">
+          <mxGeometry y="30" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" parent="u1" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u1b" value="user_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u1" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u" vertex="1">
+          <mxGeometry y="58" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u2" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u2b" value="user_code : VARCHAR(50)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u2" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u" vertex="1">
+          <mxGeometry y="86" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u3" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u3b" value="user_name : VARCHAR(50)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u3" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u" vertex="1">
+          <mxGeometry y="114" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u4" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u4b" value="user_type : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u4" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u" vertex="1">
+          <mxGeometry y="142" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u5" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u5b" value="user_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u5" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u6" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u" vertex="1">
+          <mxGeometry y="170" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u6a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u6" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="u6b" value="is_delete : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="u6" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur" value="user_role(用户角色关联)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ur1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ur" vertex="1">
+          <mxGeometry y="30" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" parent="ur1" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur1b" value="user_role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ur1" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ur" vertex="1">
+          <mxGeometry y="58" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur2a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" parent="ur2" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur2b" value="user_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ur2" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ur" vertex="1">
+          <mxGeometry y="86" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur3a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" parent="ur3" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ur3b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ur3" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r" value="role(角色)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="660" y="80" width="220" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="r" vertex="1">
+          <mxGeometry y="30" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" parent="r1" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r1b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r1" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r" vertex="1">
+          <mxGeometry y="58" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r2" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r2b" value="role_name : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r2" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r" vertex="1">
+          <mxGeometry y="86" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r3" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r3b" value="role_code : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r3" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r" vertex="1">
+          <mxGeometry y="114" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r4" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r4b" value="role_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r4" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r" vertex="1">
+          <mxGeometry y="142" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r5" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="r5b" value="role_desc : VARCHAR(300)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="r5" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra" value="role_auth(角色权限关联)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="660" y="360" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ra1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ra" vertex="1">
+          <mxGeometry y="30" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" parent="ra1" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra1b" value="role_auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ra1" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ra" vertex="1">
+          <mxGeometry y="58" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra2a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" parent="ra2" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra2b" value="role_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ra2" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ra" vertex="1">
+          <mxGeometry y="86" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra3a" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=2;" parent="ra3" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ra3b" value="auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="ra3" vertex="1">
+          <mxGeometry x="40" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a" value="auth_info(权限)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="980" y="280" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="a" vertex="1">
+          <mxGeometry y="30" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a1a" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;fontStyle=1;" parent="a1" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a1b" value="auth_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a1" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="a" vertex="1">
+          <mxGeometry y="58" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a2a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a2" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a2b" value="parent_id : INT" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a2" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="a" vertex="1">
+          <mxGeometry y="86" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a3a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a3" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a3b" value="auth_name : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a3" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="a" vertex="1">
+          <mxGeometry y="114" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a4a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a4" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a4b" value="auth_type : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a4" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="a" vertex="1">
+          <mxGeometry y="142" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a5a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a5" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a5b" value="auth_url : VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a5" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a6" value="" style="shape=tableRow;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="a" vertex="1">
+          <mxGeometry y="170" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a6a" value="" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a6" vertex="1">
+          <mxGeometry width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a6b" value="auth_state : CHAR(1)" style="shape=partialRectangle;connectable=0;fillColor=none;" parent="a6" vertex="1">
+          <mxGeometry x="40" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" parent="1" source="u1" target="ur2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" parent="1" source="r1" target="ur3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" parent="1" source="r1" target="ra2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" value="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeColor=black;" parent="1" source="a1" target="ra3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
