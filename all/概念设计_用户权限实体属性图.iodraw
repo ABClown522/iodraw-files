@@ -23,7 +23,7 @@
           <mxGeometry x="200" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_ustate" value="user_state" style="ellipse;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="680" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="525" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l1" style="" parent="1" source="e_user" target="a_uid" edge="1">
           <mxGeometry relative="1" as="geometry" />
