@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="200" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="est" value="仓库" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="757" y="205" width="140" height="55" as="geometry" />
+          <mxGeometry x="990" y="120" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eb" value="采购单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="140" height="55" as="geometry" />
