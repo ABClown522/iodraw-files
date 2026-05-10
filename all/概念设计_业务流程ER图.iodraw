@@ -20,7 +20,7 @@
           <mxGeometry x="480" y="80" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eo" value="出库单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="770" y="285" width="140" height="55" as="geometry" />
+          <mxGeometry x="780" y="290" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="et" value="调货单" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="890" y="470" width="140" height="55" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="700" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5" value="调拨" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="310" width="80" height="50" as="geometry" />
+          <mxGeometry x="940" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r6" value="记录" style="rhombus;fillColor=#f5f5f5;strokeColor=#666;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="470" width="80" height="50" as="geometry" />
