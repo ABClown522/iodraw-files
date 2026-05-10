@@ -14,13 +14,13 @@
           <mxGeometry x="30" y="450" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc1" value="创建出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="280" y="60" width="150" height="55" as="geometry" />
+          <mxGeometry x="280" y="180" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uc2" value="检查库存充足性" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="560" y="60" width="150" height="55" as="geometry" />
+          <mxGeometry x="580" y="180" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uc3" value="查询出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="280" y="180" width="150" height="55" as="geometry" />
+          <mxGeometry x="280" y="280" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uc4" value="确认出库" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="150" height="55" as="geometry" />
