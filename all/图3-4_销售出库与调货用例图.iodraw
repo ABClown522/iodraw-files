@@ -1,54 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net">
-  <diagram name="图3-4 销售出库与调货用例图">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="图3-4 销售出库与调货用例图" id="0">
+    <mxGraphModel dx="996" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        <mxCell id="0" /><mxCell id="1" parent="0" />
-        <mxCell id="border" value="销售出库与调货流程" style="rounded=1;whiteSpace=wrap;fillColor=none;strokeColor=#000000;fontSize=14;fontStyle=1;verticalAlign=top;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="border" value="销售出库与调货流程" style="rounded=1;whiteSpace=wrap;fillColor=none;strokeColor=#000000;fontSize=14;fontStyle=1;verticalAlign=top;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="20" width="720" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="sales" value="销售人员" style="shape=mxgraph.flowchart.actor;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="60" height="80" as="geometry" />
+        <mxCell id="sales" value="销售人员" style="shape=mxgraph.flowchart.actor;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="235" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wm" value="仓库管理员" style="shape=mxgraph.flowchart.actor;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="wm" value="仓库管理员" style="shape=mxgraph.flowchart.actor;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="30" y="450" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc1" value="创建出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc1" value="创建出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="60" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc2" value="检查库存充足性" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc2" value="检查库存充足性" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="60" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc3" value="查询出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc3" value="查询出库单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="180" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc4" value="确认出库" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc4" value="确认出库" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc5" value="扣减库存" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc5" value="扣减库存" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="350" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc6" value="生成追溯记录" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc6" value="生成追溯记录" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc7" value="创建调货单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc7" value="创建调货单" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="540" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc8" value="确认调货" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc8" value="确认调货" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="640" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uc9" value="转移库存&#xa;(调出仓-/调入仓+)" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="uc9" value="转移库存&#xa;(调出仓-/调入仓+)" style="ellipse;fillColor=white;strokeColor=black;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="620" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="e1" style="strokeColor=black;" edge="1" parent="1" source="sales" target="uc1"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e2" style="strokeColor=black;" edge="1" parent="1" source="sales" target="uc3"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e3" style="strokeColor=black;" edge="1" parent="1" source="wm" target="uc4"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e4" style="strokeColor=black;" edge="1" parent="1" source="wm" target="uc7"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e5" style="strokeColor=black;" edge="1" parent="1" source="wm" target="uc8"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e6" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" edge="1" parent="1" source="uc1" target="uc2"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e7" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" edge="1" parent="1" source="uc4" target="uc5"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e8" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" edge="1" parent="1" source="uc4" target="uc6"><mxGeometry relative="1" as="geometry" /></mxCell>
-        <mxCell id="e9" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" edge="1" parent="1" source="uc8" target="uc9"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e1" style="strokeColor=black;" parent="1" source="sales" target="uc1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="strokeColor=black;" parent="1" source="sales" target="uc3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="strokeColor=black;" parent="1" source="wm" target="uc4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" style="strokeColor=black;" parent="1" source="wm" target="uc7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" style="strokeColor=black;" parent="1" source="wm" target="uc8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" parent="1" source="uc1" target="uc2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" parent="1" source="uc4" target="uc5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" parent="1" source="uc4" target="uc6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" value="&lt;&lt;include&gt;&gt;" style="dashed=1;strokeColor=black;fontColor=black;fontSize=11;endArrow=open;" parent="1" source="uc8" target="uc9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
