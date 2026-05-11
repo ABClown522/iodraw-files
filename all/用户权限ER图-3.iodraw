@@ -65,7 +65,7 @@
           <mxGeometry x="410" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_rstate" value="role_state" style="ellipse;fillColor=white;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="700" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lr1" style="strokeColor=#82b366;" parent="1" source="e_role" target="a_rid" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r_assign" value="分配" style="rhombus;fillColor=#f5f5f5;strokeColor=#333333;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="395" width="100" height="60" as="geometry" />
+          <mxGeometry x="750" y="385" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rel_r_a1" value="M" style="strokeColor=#333333;fontSize=13;fontStyle=1;endArrow=none;" parent="1" source="e_role" target="r_assign" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_auth" value="权限" style="rounded=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="400" width="120" height="50" as="geometry" />
+          <mxGeometry x="970" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a_aid" value="auth_id (PK)" style="ellipse;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="200" width="120" height="40" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="1370" y="290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_acode" value="auth_code" style="ellipse;fillColor=white;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="500" width="110" height="40" as="geometry" />
+          <mxGeometry x="880" y="480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a_apid" value="parent_id" style="ellipse;fillColor=white;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1300" y="500" width="110" height="40" as="geometry" />
