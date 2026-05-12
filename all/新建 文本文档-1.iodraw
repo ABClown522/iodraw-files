@@ -109,18 +109,8 @@
         <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="275" y="294" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="548.304347826087" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="240" y="530" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="639.608695652174" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="240" y="622" width="110" height="36" as="geometry" />
@@ -133,26 +123,11 @@
         <mxCell id="s2_3" value="品牌管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="240" y="716" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="548.304347826087" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="450" y="530" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="639.608695652174" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s2_5" value="仓库管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="450" y="622" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="734.3913043478261" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s2_6" value="图片上传" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="450" y="716" width="110" height="36" as="geometry" />
