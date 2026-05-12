@@ -62,19 +62,16 @@
           <mxGeometry x="335" y="290" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="335" y="340" width="110" height="36" as="geometry" />
+          <mxGeometry x="300" y="567" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_3" value="品牌管理" style="rounded=0;fontSize=11;glass=0;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="335" y="530" width="110" height="36" as="geometry" />
+          <mxGeometry x="280" y="630" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="460" y="290" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s2_5" value="仓库管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="480" y="354" width="110" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="s2_6" value="图片上传" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="460" y="630" width="110" height="36" as="geometry" />
+          <mxGeometry x="530" y="640" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ll2_1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +88,7 @@
         <mxCell id="ll2_5" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ll2_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_6" edge="1">
+        <mxCell id="ll2_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="s2_5" target="s2_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s3_1" value="采购管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
@@ -201,6 +198,15 @@
         </mxCell>
         <mxCell id="ll5_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y74xCuZXFICCXKdd61Jx-4" value="" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="m2" target="s2_5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="476" as="sourcePoint" />
+            <mxPoint x="585" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_5" value="仓库管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="510" y="604" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
