@@ -61,11 +61,6 @@
         <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="300" y="567" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Y74xCuZXFICCXKdd61Jx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2_3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="666.3333333333335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2_3" value="品牌管理" style="rounded=0;fontSize=11;glass=0;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="630" width="110" height="36" as="geometry" />
         </mxCell>
