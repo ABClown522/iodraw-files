@@ -1,17 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="功能模块划分图" id="0">
-    <mxGraphModel dx="797" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="root" value="家电库存管理系统" style="rounded=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="660" y="40" width="260" height="55" as="geometry" />
+          <mxGeometry x="590" y="40" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="m1" value="用户权限管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m2" value="基础数据管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="360" y="160" width="200" height="50" as="geometry" />
+          <mxGeometry x="370" y="426" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m3" value="业务流程管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="620" y="160" width="200" height="50" as="geometry" />
