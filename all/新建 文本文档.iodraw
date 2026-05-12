@@ -76,11 +76,8 @@
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="335" y="290" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="335" y="340" width="110" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="s2_3" value="品牌管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="335" y="530" width="110" height="36" as="geometry" />
+          <mxGeometry x="335" y="630" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="460" y="290" width="110" height="36" as="geometry" />
@@ -97,7 +94,7 @@
         <mxCell id="ll2_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ll2_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_3" edge="1">
+        <mxCell id="ll2_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="s2_2" target="s2_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ll2_4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_4" edge="1">
@@ -216,6 +213,15 @@
         </mxCell>
         <mxCell id="ll5_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y74xCuZXFICCXKdd61Jx-1" value="" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="m2" target="s2_2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="335" y="567" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
