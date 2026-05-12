@@ -14,7 +14,7 @@
           <mxGeometry x="300" y="100" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="auth" value="权限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="100" width="110" height="90" as="geometry" />
+          <mxGeometry x="625" y="100" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="product" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="360" width="120" height="100" as="geometry" />
