@@ -30,19 +30,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="826.9499999999998" y="95" as="sourcePoint" />
-            <mxPoint x="469.997619047619" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="826.95" y="120" />
-              <mxPoint x="469.95" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="root" target="m3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="root" target="m4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
