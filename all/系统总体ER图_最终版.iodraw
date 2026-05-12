@@ -70,9 +70,6 @@
         <mxCell id="l3" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="role" target="r_ra" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l3m" value="M" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="80" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="l4" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="r_ra" target="auth" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -230,9 +227,6 @@
           <mxGeometry x="735" y="570" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bxd_lBfBTJAAcqCA8lcp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="title" target="title">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bxd_lBfBTJAAcqCA8lcp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l3m" target="l3m">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
