@@ -209,10 +209,10 @@
         <mxCell id="s5_1" value="操作日志" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="950" y="290" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s5_2" value="产品追溯" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="280" width="110" height="36" as="geometry" />
+        <mxCell id="s5_2" value="产品追溯" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="294" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s5_3" value="质量问题管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="s5_3" value="质量问题管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1020" y="426" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_4" value="站内信管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
