@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="仓库管理系统ER图" id="0">
-    <mxGraphModel dx="1532" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="604" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="280" y="125" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_ra" value="分配" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="470" y="180" width="70" height="50" as="geometry" />
+          <mxGeometry x="480" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l3" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="role" target="r_ra" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,11 +76,8 @@
         <mxCell id="l4" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="r_ra" target="auth" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bxd_lBfBTJAAcqCA8lcp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l4n" target="r_ra">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l4n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="125" width="20" height="20" as="geometry" />
+          <mxGeometry x="570" y="105" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_pt" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="820" y="200" width="70" height="50" as="geometry" />
