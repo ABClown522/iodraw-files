@@ -7,7 +7,7 @@
         <mxCell id="title" value="仓库管理系统总体ER图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="10" width="400" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="user" value="用户&lt;br&gt;user_id&lt;br&gt;user_code&lt;br&gt;user_name&lt;br&gt;user_state" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="user" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="100" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="role" value="角色&lt;br&gt;role_id&lt;br&gt;role_name&lt;br&gt;role_code&lt;br&gt;role_state" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" parent="1" vertex="1">
@@ -95,7 +95,7 @@
           <mxGeometry x="900" y="160" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_pb" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="820" y="250" width="70" height="50" as="geometry" />
+          <mxGeometry x="830" y="260" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7" value="" style="endArrow=none;html=1;strokeWidth=1.5;" parent="1" source="product" target="r_pb" edge="1">
           <mxGeometry relative="1" as="geometry" />
