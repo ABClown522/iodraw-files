@@ -174,7 +174,7 @@
             <mxPoint x="675.1538461538462" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3_4" value="调货管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+        <mxCell id="s3_4" value="调&#xa;货&#xa;管&#xa;理" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s3_5">
@@ -182,7 +182,7 @@
             <mxPoint x="735.1538461538462" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3_5" value="采购转入库" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+        <mxCell id="s3_5" value="采&#xa;购&#xa;转&#xa;入&#xa;库" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s3_6">
@@ -190,7 +190,7 @@
             <mxPoint x="660" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3_6" value="库存中心" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+        <mxCell id="s3_6" value="库存中心" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_1">
