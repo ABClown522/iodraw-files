@@ -201,7 +201,7 @@
           <mxGeometry x="710" y="420" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s4_1" value="库存统计" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="795" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="760" y="284" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s4_2" value="出入库统计" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="795" y="340" width="110" height="36" as="geometry" />
@@ -217,24 +217,6 @@
         </mxCell>
         <mxCell id="s4_6" value="库存预警" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="920" y="390" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_5" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll4_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m4" target="s4_6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s5_1" value="操作日志" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1055" y="290" width="110" height="36" as="geometry" />
