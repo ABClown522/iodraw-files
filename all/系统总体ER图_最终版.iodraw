@@ -50,19 +50,19 @@
           <mxGeometry x="700" y="600" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r_ur" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="210" y="120" width="70" height="50" as="geometry" />
+          <mxGeometry x="230" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l1" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="user" target="r_ur" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l1m" value="M" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="125" width="20" height="20" as="geometry" />
+          <mxGeometry x="200" y="105" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l2" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="r_ur" target="role" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="125" width="20" height="20" as="geometry" />
+          <mxGeometry x="300" y="105" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_ra" value="分配" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="70" height="50" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="730" y="460" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_ulog" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="100" y="210" width="70" height="50" as="geometry" />
+          <mxGeometry x="100" y="220" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l21" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="user" target="r_ulog" edge="1">
           <mxGeometry relative="1" as="geometry" />
