@@ -219,10 +219,10 @@
           <mxGeometry x="1140" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_5" value="批次号生成" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="294" width="110" height="36" as="geometry" />
+          <mxGeometry x="1210" y="300" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="426" width="110" height="36" as="geometry" />
+        <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="290" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
