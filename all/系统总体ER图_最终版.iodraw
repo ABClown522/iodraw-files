@@ -13,7 +13,7 @@
         <mxCell id="role" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="auth" value="权限&lt;br&gt;auth_id&lt;br&gt;auth_name&lt;br&gt;auth_type&lt;br&gt;auth_url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="auth" value="权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="100" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="product" value="商品&lt;br&gt;product_id&lt;br&gt;product_name&lt;br&gt;product_invent&lt;br&gt;in_price&lt;br&gt;sale_price" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=center;fontStyle=1;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="store" value="仓库&lt;br&gt;store_id&lt;br&gt;store_name&lt;br&gt;store_address" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="460" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="buy" value="采购单&lt;br&gt;buy_id&lt;br&gt;product_id&lt;br&gt;supply_id&lt;br&gt;buy_num&lt;br&gt;is_in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="buy" value="采购单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="350" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="instore" value="入库单&lt;br&gt;ins_id&lt;br&gt;product_id&lt;br&gt;store_id&lt;br&gt;in_num&lt;br&gt;is_in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="transfer" value="调货单&lt;br&gt;transfer_id&lt;br&gt;product_id&lt;br&gt;out_store_id&lt;br&gt;in_store_id&lt;br&gt;transfer_num" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="770" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="log" value="操作日志&lt;br&gt;log_id&lt;br&gt;user_id&lt;br&gt;operation_type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="log" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="310" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="trace" value="产品追溯&lt;br&gt;trace_id&lt;br&gt;product_id&lt;br&gt;trace_type&lt;br&gt;trace_num" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
