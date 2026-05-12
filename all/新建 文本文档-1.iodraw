@@ -42,22 +42,25 @@
           <mxGeometry x="1080" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1_1" value="用户管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="240" width="110" height="36" as="geometry" />
+          <mxGeometry x="20" y="290" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_2" value="角色管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="304" width="110" height="36" as="geometry" />
+          <mxGeometry x="20" y="340" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="370" width="110" height="36" as="geometry" />
+          <mxGeometry x="20" y="390" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_4" value="登录认证" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="145" y="240" width="110" height="36" as="geometry" />
+          <mxGeometry x="145" y="290" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_5" value="动态菜单" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="145" y="304" width="110" height="36" as="geometry" />
+          <mxGeometry x="145" y="340" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="145" y="390" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ll1_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="275" y="290" width="110" height="36" as="geometry" />
