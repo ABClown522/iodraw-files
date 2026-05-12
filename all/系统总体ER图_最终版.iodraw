@@ -10,7 +10,7 @@
         <mxCell id="user" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="100" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="role" value="角色&lt;br&gt;role_id&lt;br&gt;role_name&lt;br&gt;role_code&lt;br&gt;role_state" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="role" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="auth" value="权限&lt;br&gt;auth_id&lt;br&gt;auth_name&lt;br&gt;auth_type&lt;br&gt;auth_url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=11;align=center;" parent="1" vertex="1">
