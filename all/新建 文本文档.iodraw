@@ -79,7 +79,7 @@
         <mxCell id="s2_2" value="分类管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="335" y="340" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s2_3" value="品牌管理" style="rounded=0;fontSize=11;glass=0;" parent="1" vertex="1">
+        <mxCell id="s2_3" value="品牌管理" style="rounded=0;fontSize=11;glass=0;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="530" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
