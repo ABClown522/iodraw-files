@@ -99,6 +99,11 @@
         <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="165" y="420" width="110" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="302.304347826087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="240" y="284" width="110" height="36" as="geometry" />
         </mxCell>
@@ -224,14 +229,6 @@
         </mxCell>
         <mxCell id="ll5_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s2_2" target="s2_2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="412" />
-              <mxPoint x="300" y="376" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
