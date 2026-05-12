@@ -7,7 +7,7 @@
         <mxCell id="root" value="家电库存管理系统" style="rounded=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="687" y="40" width="260" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="m1" value="用户权限管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m1" value="用户权限管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m2" value="基础数据管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
           <mxGeometry x="460" y="290" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_5" value="仓库管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="460" y="340" width="110" height="36" as="geometry" />
+          <mxGeometry x="480" y="354" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_6" value="图片上传" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="460" y="630" width="110" height="36" as="geometry" />
