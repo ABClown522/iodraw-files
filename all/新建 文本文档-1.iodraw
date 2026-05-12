@@ -36,6 +36,11 @@
             <mxPoint x="659.9090909090905" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="m3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m3" value="业务流程管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="560" y="160" width="200" height="50" as="geometry" />
         </mxCell>
