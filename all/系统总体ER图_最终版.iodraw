@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l3m" value="M" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="105" width="20" height="20" as="geometry" />
+          <mxGeometry x="470" y="80" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l4" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="r_ra" target="auth" edge="1">
           <mxGeometry relative="1" as="geometry" />
