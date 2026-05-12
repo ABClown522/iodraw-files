@@ -272,10 +272,10 @@
           <mxGeometry x="40" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="msg" value="站内信" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="quality" value="质量问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trace" value="产品追溯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="750" width="120" height="60" as="geometry" />
