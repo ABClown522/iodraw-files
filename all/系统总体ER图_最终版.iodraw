@@ -44,7 +44,7 @@
           <mxGeometry x="300" y="770" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="log" value="操作日志&lt;br&gt;log_id&lt;br&gt;user_id&lt;br&gt;operation_type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="250" width="110" height="80" as="geometry" />
+          <mxGeometry x="80" y="310" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="trace" value="产品追溯&lt;br&gt;trace_id&lt;br&gt;product_id&lt;br&gt;trace_type&lt;br&gt;trace_num" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="120" height="90" as="geometry" />
