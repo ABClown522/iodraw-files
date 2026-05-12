@@ -4,52 +4,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="仓库管理系统总体ER图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="title" value="仓库管理系统总体ER图" style="text;html=1;align=center;verticalAlign=middle;fontSize=33;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="10" width="400" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="user" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="user" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="100" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="role" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="role" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="auth" value="权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="auth" value="权限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="100" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="product" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=21;align=center;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="product" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="360" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ptype" value="商品分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="ptype" value="商品分类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="100" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="brand" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="brand" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="220" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="supply" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="supply" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="330" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="store" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="store" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="460" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="buy" value="采购单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="buy" value="采购单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="350" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="instore" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="instore" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="490" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="outstore" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="outstore" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="630" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="transfer" value="调货单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="transfer" value="调货单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="770" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="log" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="log" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="310" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="trace" value="产品追溯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;align=center;" parent="1" vertex="1">
+        <mxCell id="trace" value="产品追溯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="r_ur" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_ur" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="210" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l1" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="user" target="r_ur" edge="1">
@@ -64,7 +64,7 @@
         <mxCell id="l2n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="125" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_ra" value="分配" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_ra" value="分配" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="430" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l3" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="role" target="r_ra" edge="1">
@@ -79,7 +79,7 @@
         <mxCell id="l4n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="125" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_pt" value="属于" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_pt" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="820" y="200" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l5" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="product" target="r_pt" edge="1">
@@ -94,7 +94,7 @@
         <mxCell id="l6_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="160" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_pb" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_pb" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="830" y="260" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="product" target="r_pb" edge="1">
@@ -109,7 +109,7 @@
         <mxCell id="l8_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="250" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_ps" value="供应" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_ps" value="供应" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="820" y="350" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l9" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="product" target="r_ps" edge="1">
@@ -124,7 +124,7 @@
         <mxCell id="l10_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="360" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_pst" value="存放" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_pst" value="存放" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="820" y="475" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l11" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="product" target="r_pst" edge="1">
@@ -139,7 +139,7 @@
         <mxCell id="l12_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="490" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_buy" value="采购" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_buy" value="采购" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="375" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l13" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="buy" target="r_buy" edge="1">
@@ -154,7 +154,7 @@
         <mxCell id="l14_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="380" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_in" value="入库" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_in" value="入库" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="515" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l15" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="instore" target="r_in" edge="1">
@@ -169,7 +169,7 @@
         <mxCell id="l16_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_out" value="出库" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_out" value="出库" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="655" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l17" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="outstore" target="r_out" edge="1">
@@ -184,7 +184,7 @@
         <mxCell id="l18_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="460" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_tr" value="调拨" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_tr" value="调拨" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="500" y="795" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l19" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="transfer" target="r_tr" edge="1">
@@ -199,7 +199,7 @@
         <mxCell id="l20_1" value="1" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="460" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_ulog" value="记录" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_ulog" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="100" y="210" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l21" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="user" target="r_ulog" edge="1">
@@ -214,7 +214,7 @@
         <mxCell id="l22n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="260" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r_ptr" value="追溯" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="r_ptr" value="追溯" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="725" y="510" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l23" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="product" target="r_ptr" edge="1">
