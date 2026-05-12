@@ -65,7 +65,7 @@
           <mxGeometry x="280" y="125" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_ra" value="分配" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="430" y="120" width="70" height="50" as="geometry" />
+          <mxGeometry x="470" y="180" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l3" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="role" target="r_ra" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,6 +74,9 @@
           <mxGeometry x="410" y="125" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l4" value="" style="endArrow=none;html=1;strokeWidth=1.5;fontSize=21;" parent="1" source="r_ra" target="auth" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bxd_lBfBTJAAcqCA8lcp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l4n" target="r_ra">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4n" value="N" style="text;html=1;fontSize=21;fontStyle=1;" parent="1" vertex="1">
