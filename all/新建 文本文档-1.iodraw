@@ -206,7 +206,7 @@
             <mxPoint x="764.6315789473686" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s4_2" value="出入库统计" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="s4_2" value="出&#xa;入&#xa;库&#xa;统&#xa;计" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="440" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_3">
@@ -214,7 +214,7 @@
             <mxPoint x="826.7368421052633" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s4_3" value="采购统计" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+        <mxCell id="s4_3" value="采&#xa;购&#xa;统&#xa;计" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="772" y="440" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_4">
