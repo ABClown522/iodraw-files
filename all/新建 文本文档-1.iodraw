@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="功能模块划分图" id="0">
-    <mxGraphModel dx="1811" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,6 +34,9 @@
         </mxCell>
         <mxCell id="m4" value="统计分析模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="m5" target="root">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5" value="系统辅助功能模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1080" y="160" width="200" height="50" as="geometry" />
