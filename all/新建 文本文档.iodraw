@@ -30,7 +30,8 @@
         <mxCell id="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;endArrow=none;endFill=0;" parent="1" source="root" target="m1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="817" y="130" />
+              <mxPoint x="960" y="68" />
+              <mxPoint x="960" y="130" />
               <mxPoint x="200" y="130" />
             </Array>
           </mxGeometry>
