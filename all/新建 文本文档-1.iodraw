@@ -157,13 +157,13 @@
           <mxGeometry x="500" y="420" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_4" value="调货管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="660" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="690" y="234" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_5" value="采购转入库" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="660" y="340" width="110" height="36" as="geometry" />
+          <mxGeometry x="685" y="330" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_6" value="库存中心" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="660" y="390" width="110" height="36" as="geometry" />
+          <mxGeometry x="680" y="426" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s4_1" value="库存统计" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="795" y="290" width="110" height="36" as="geometry" />
