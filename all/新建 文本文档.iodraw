@@ -23,13 +23,18 @@
           <mxGeometry x="1140" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;endArrow=none;endFill=0;" parent="1" source="root" target="m1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="817" y="110" />
+              <mxPoint x="200" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="l2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="root" target="m2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="817" y="110" />
-              <mxPoint x="460" y="110" />
+              <mxPoint x="817" y="120" />
+              <mxPoint x="460" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
