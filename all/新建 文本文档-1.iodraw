@@ -13,6 +13,11 @@
         <mxCell id="m1" value="用户权限管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.90909090909054" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m2" value="基础数据管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="200" height="50" as="geometry" />
         </mxCell>
