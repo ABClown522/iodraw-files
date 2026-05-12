@@ -213,10 +213,10 @@
           <mxGeometry x="1020" y="294" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_3" value="质量问题管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="426" width="110" height="36" as="geometry" />
+          <mxGeometry x="1080" y="294" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s5_4" value="站内信管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="240" width="110" height="36" as="geometry" />
+        <mxCell id="s5_4" value="站内信管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_5" value="批次号生成" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1220" y="330" width="110" height="36" as="geometry" />
