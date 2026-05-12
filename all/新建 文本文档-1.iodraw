@@ -48,7 +48,7 @@
           <mxGeometry x="80" y="253" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="140" y="253" width="36" height="110" as="geometry" />
+          <mxGeometry x="130" y="253" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s1_4" value="登录认证" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
           <mxGeometry x="182" y="253" width="36" height="110" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry x="230" y="253" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="290" y="253" width="36" height="110" as="geometry" />
+          <mxGeometry x="280" y="253" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="282.5" y="490" width="110" height="36" as="geometry" />
