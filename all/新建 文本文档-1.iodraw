@@ -59,22 +59,7 @@
         <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="145" y="390" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ll1_1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ll1_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll1_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll1_4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll1_5" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll1_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m1" target="s1_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
