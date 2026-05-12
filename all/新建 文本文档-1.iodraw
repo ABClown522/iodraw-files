@@ -257,19 +257,19 @@
           <mxGeometry x="1020" y="240" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_2" value="产品追溯" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="340" width="110" height="36" as="geometry" />
+          <mxGeometry x="1020" y="326" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_3" value="质量问题管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="390" width="110" height="36" as="geometry" />
+          <mxGeometry x="1020" y="426" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_4" value="站内信管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1220" y="240" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_5" value="批次号生成" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="340" width="110" height="36" as="geometry" />
+          <mxGeometry x="1220" y="330" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="390" width="110" height="36" as="geometry" />
+          <mxGeometry x="1220" y="426" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
