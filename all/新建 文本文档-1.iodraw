@@ -65,10 +65,10 @@
           <mxGeometry x="-20" y="284" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_2" value="角色管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
-          <mxGeometry y="326" width="110" height="36" as="geometry" />
+          <mxGeometry x="40" y="284" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry y="420" width="110" height="36" as="geometry" />
+        <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="100" y="290" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s1_4" value="登&#xa;录&#xa;认&#xa;证" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="234" width="110" height="36" as="geometry" />
