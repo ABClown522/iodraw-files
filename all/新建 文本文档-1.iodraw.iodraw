@@ -15,7 +15,7 @@
             <mxPoint x="140.42105263157896" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1" value="用户权限管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m1" value="用户权限管理模块" style="rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;shadow=1;" edge="1" parent="1" source="m2">
@@ -28,7 +28,7 @@
             <mxPoint x="399.7777777777776" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m2" value="基础数据管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m2" value="基础数据管理模块" style="rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="m3">
@@ -36,7 +36,7 @@
             <mxPoint x="659.9090909090905" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3" value="业务流程管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m3" value="业务流程管理模块" style="rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="560" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="m4" target="root">
@@ -47,13 +47,13 @@
             <mxPoint x="920.421052631579" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4" value="统计分析模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m4" value="统计分析模块" style="rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="m5" target="root">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m5" value="系统辅助功能模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="m5" value="系统辅助功能模块" style="rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s1_1">
