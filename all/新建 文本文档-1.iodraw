@@ -254,7 +254,7 @@
           <mxGeometry x="970" y="470" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_1" value="操作日志" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="1020" y="240" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_2" value="产品追溯" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1055" y="340" width="110" height="36" as="geometry" />
@@ -263,25 +263,13 @@
           <mxGeometry x="1055" y="390" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_4" value="站内信管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="1220" y="240" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_5" value="批次号生成" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1180" y="340" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1180" y="390" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ll5_1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll5_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll5_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll5_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m5" target="s5_6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
