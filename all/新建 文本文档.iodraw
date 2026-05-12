@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="功能模块划分图" id="0">
-    <mxGraphModel dx="949" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,11 @@
         </mxCell>
         <mxCell id="m1" value="用户权限管理模块" style="rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y74xCuZXFICCXKdd61Jx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.57142857142844" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m2" value="基础数据管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="200" height="50" as="geometry" />
