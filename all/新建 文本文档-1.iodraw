@@ -193,13 +193,8 @@
         <mxCell id="s3_6" value="库存中心" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="740" y="300" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="578.0303030303031" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s4_1" value="库存统计" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="760" y="560" width="110" height="36" as="geometry" />
+        <mxCell id="s4_1" value="库存统计" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_2">
           <mxGeometry relative="1" as="geometry">
@@ -216,11 +211,6 @@
         </mxCell>
         <mxCell id="s4_3" value="采购统计" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="760" y="746" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s4_4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="578.0303030303031" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s4_4" value="数据可视化" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="970" y="560" width="110" height="36" as="geometry" />
