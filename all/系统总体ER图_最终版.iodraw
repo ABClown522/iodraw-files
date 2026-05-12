@@ -229,6 +229,9 @@
         <mxCell id="l24n" value="N" style="text;html=1;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="570" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Bxd_lBfBTJAAcqCA8lcp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="title" target="title">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
