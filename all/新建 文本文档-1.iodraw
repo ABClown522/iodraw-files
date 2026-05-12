@@ -42,13 +42,13 @@
           <mxGeometry x="1080" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1_1" value="用户管理" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="57" y="253" width="36" height="110" as="geometry" />
+          <mxGeometry x="21" y="253" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s1_2" value="角色管理" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
           <mxGeometry x="57" y="303" width="36" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="20" y="390" width="110" height="36" as="geometry" />
+        <mxCell id="s1_3" value="权限管理" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="57" y="353" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s1_4" value="登录认证" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
           <mxGeometry x="182" y="253" width="36" height="110" as="geometry" />
@@ -56,8 +56,8 @@
         <mxCell id="s1_5" value="动态菜单" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
           <mxGeometry x="182" y="303" width="36" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="145" y="390" width="110" height="36" as="geometry" />
+        <mxCell id="s1_6" value="Token验证" style="rounded=1;fontSize=11;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="182" y="353" width="36" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="商品管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="275" y="290" width="110" height="36" as="geometry" />
