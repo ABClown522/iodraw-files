@@ -28,7 +28,7 @@
         <mxCell id="supply" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="330" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="store" value="仓库&lt;br&gt;store_id&lt;br&gt;store_name&lt;br&gt;store_address" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="store" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="460" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="buy" value="采购单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="log" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="310" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="trace" value="产品追溯&lt;br&gt;trace_id&lt;br&gt;product_id&lt;br&gt;trace_type&lt;br&gt;trace_num" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="trace" value="产品追溯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r_ur" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" parent="1" vertex="1">
