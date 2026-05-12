@@ -34,10 +34,10 @@
         <mxCell id="buy" value="采购单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="350" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="instore" value="入库单&lt;br&gt;ins_id&lt;br&gt;product_id&lt;br&gt;store_id&lt;br&gt;in_num&lt;br&gt;is_in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="instore" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="490" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="outstore" value="出库单&lt;br&gt;outs_id&lt;br&gt;product_id&lt;br&gt;store_id&lt;br&gt;out_num&lt;br&gt;is_out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
+        <mxCell id="outstore" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="630" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="transfer" value="调货单&lt;br&gt;transfer_id&lt;br&gt;product_id&lt;br&gt;out_store_id&lt;br&gt;in_store_id&lt;br&gt;transfer_num" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center;" parent="1" vertex="1">
