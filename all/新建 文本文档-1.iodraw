@@ -61,7 +61,7 @@
             <mxPoint x="140.0000000000001" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s1_1" value="用户管理" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="s1_1" value="用&#xa;户&#xa;管&#xa;理" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="-20" y="294" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s1_2">
