@@ -284,7 +284,7 @@
             <mxPoint x="1180" y="210.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="s5_6" value="AOP&#xa;日&#xa;志&#xa;切&#xa;面" style="rounded=1;fontSize=11;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1270" y="300" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
