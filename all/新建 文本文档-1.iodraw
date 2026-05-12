@@ -153,16 +153,23 @@
         <mxCell id="_q8ZO2mxDnVjh_GdsDmK-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s3_1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="243" />
+              <mxPoint x="577" y="243" />
+              <mxPoint x="577" y="240" />
+              <mxPoint x="661" y="240" />
+              <mxPoint x="661" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="s3_1" value="采购管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="420" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_2" value="入库管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="490" y="310" width="110" height="36" as="geometry" />
+          <mxGeometry x="490" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_3" value="出库管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="550" y="310" width="110" height="36" as="geometry" />
+          <mxGeometry x="550" y="300" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s3_4" value="调货管理" style="rounded=1;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="620" y="310" width="110" height="36" as="geometry" />
@@ -247,6 +254,9 @@
         </mxCell>
         <mxCell id="s5_6" value="AOP日志切面" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1220" y="426" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_q8ZO2mxDnVjh_GdsDmK-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.075;entryY=-0.115;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="s3_2" target="s3_2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
