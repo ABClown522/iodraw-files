@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m2" value="基础数据管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="370" y="426" width="200" height="50" as="geometry" />
+          <mxGeometry x="370" y="170" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m3" value="业务流程管理模块" style="rounded=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="620" y="160" width="200" height="50" as="geometry" />
