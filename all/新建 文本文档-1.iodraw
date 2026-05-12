@@ -104,31 +104,13 @@
           <mxGeometry x="275" y="390" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="供应商管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="400" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="420" y="270" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_5" value="仓库管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="400" y="340" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s2_6" value="图片上传" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="400" y="390" width="110" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_2" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_3" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_5" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ll2_6" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="m2" target="s2_6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s3_1" value="采购管理" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="535" y="290" width="110" height="36" as="geometry" />
