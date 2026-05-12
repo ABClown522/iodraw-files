@@ -210,7 +210,7 @@
           <mxGeometry x="795" y="390" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s4_4" value="数据可视化" style="rounded=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="920" y="290" width="110" height="36" as="geometry" />
+          <mxGeometry x="970" y="284" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="s4_5" value="今日实时看板" style="rounded=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="920" y="340" width="110" height="36" as="geometry" />
