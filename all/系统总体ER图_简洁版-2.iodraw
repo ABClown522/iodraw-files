@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="WarehouseERDiagram" name="仓库管理系统ER图">
-    <mxGraphModel dx="1423" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="outstore" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="385" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="I3irSvdeiGmBHpKkpoKj-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="transfer" target="r_u_tr">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="transfer" value="调货单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="485" width="100" height="50" as="geometry" />
@@ -382,8 +379,11 @@
             <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_spur2_n" target="l_uin1_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l_spur2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="400" y="400" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3irSvdeiGmBHpKkpoKj-41" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="transfer" target="l_uin2_n">
           <mxGeometry relative="1" as="geometry">
@@ -392,7 +392,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l_uin2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="485" width="20" height="20" as="geometry" />
+          <mxGeometry x="400" y="495" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3irSvdeiGmBHpKkpoKj-42" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="purchase" target="l_pi2_n">
           <mxGeometry relative="1" as="geometry">
