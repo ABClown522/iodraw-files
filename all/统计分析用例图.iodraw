@@ -1,103 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net">
-  <diagram name="统计分析用例图">
-    <mxGraphModel dx="2200" dy="1400" grid="1" gridSize="10" pageWidth="1800" pageHeight="1200">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="统计分析用例图" id="0">
+    <mxGraphModel dx="2490" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-        
-        <!-- 标题 -->
-        <mxCell id="title" value="统计分析系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="20" width="500" height="40" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="统计分析系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="20" width="500" height="40" as="geometry" />
         </mxCell>
-
-        <!-- 系统边界 -->
-        <mxCell id="system_boundary" value="统计分析系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontStyle=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="1000" height="1000" as="geometry"/>
+        <mxCell id="system_boundary" value="统计分析系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="1000" height="1000" as="geometry" />
         </mxCell>
-
-        <!-- 参与者 -->
-        <!-- 仓库管理员 -->
-        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="80" height="160" as="geometry"/>
+        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="300" width="80" height="160" as="geometry" />
         </mxCell>
-
-        <!-- 财务人员 -->
-        <mxCell id="actor_finance" value="财务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="600" width="80" height="160" as="geometry"/>
+        <mxCell id="actor_finance" value="财务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="600" width="80" height="160" as="geometry" />
         </mxCell>
-
-        <!-- 采购人员 -->
-        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="900" width="80" height="160" as="geometry"/>
+        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="900" width="80" height="160" as="geometry" />
         </mxCell>
-
-        <!-- 用例 - 统计功能 -->
-        <mxCell id="uc_inventory_stats" value="库存统计&#xa;(库存量/分类)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="200" width="160" height="80" as="geometry"/>
+        <mxCell id="uc_inventory_stats" value="库存统计&#xa;(库存量/分类)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-
-        <mxCell id="uc_sales_stats" value="销售统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="160" height="80" as="geometry"/>
+        <mxCell id="uc_sales_stats" value="销售统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-
-        <mxCell id="uc_daily_stats" value="今日实时看板" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="160" height="80" as="geometry"/>
+        <mxCell id="uc_daily_stats" value="今日实时看板" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-
-        <mxCell id="uc_instore_stats" value="采购统计&#xa;(月度/趋势)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="640" width="160" height="80" as="geometry"/>
+        <mxCell id="uc_instore_stats" value="采购统计&#xa;(月度/趋势)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-
-        <mxCell id="uc_purchase_stats" value="采购统计&#xa;(查询/统计)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="900" width="160" height="80" as="geometry"/>
+        <mxCell id="uc_purchase_stats" value="采购统计&#xa;(查询/统计)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="900" width="160" height="80" as="geometry" />
         </mxCell>
-
-        <!-- 用例 - 数据可视化 -->
-        <mxCell id="uc_data_visual" value="数据可视化&#xa;(评估库存/统计趋势)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="180" height="90" as="geometry"/>
+        <mxCell id="uc_data_visual" value="数据可视化&#xa;(评估库存/统计趋势)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="900" y="440" width="180" height="90" as="geometry" />
         </mxCell>
-
-        <!-- 关联关系 - 仓库管理员 -->
-        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_warehouse" target="uc_inventory_stats">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_inventory_stats" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_warehouse" target="uc_sales_stats">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_sales_stats" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="link_warehouse_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_warehouse" target="uc_daily_stats">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_warehouse_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_daily_stats" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <!-- 关联关系 - 财务人员 -->
-        <mxCell id="link_finance_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_finance" target="uc_data_visual">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_finance_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_finance" target="uc_data_visual" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="link_finance_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_finance" target="uc_instore_stats">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_finance_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_finance" target="uc_instore_stats" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <!-- 关联关系 - 采购人员 -->
-        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="actor_purchase" target="uc_purchase_stats">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_purchase" target="uc_purchase_stats" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <!-- 包含关系 (include) -->
-        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" edge="1" parent="1" source="uc_inventory_stats" target="uc_data_visual">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_inventory_stats" target="uc_data_visual" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="include_2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" edge="1" parent="1" source="uc_instore_stats" target="uc_data_visual">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="include_2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_instore_stats" target="uc_data_visual" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" edge="1" parent="1" source="uc_purchase_stats" target="uc_data_visual">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_purchase_stats" target="uc_data_visual" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
