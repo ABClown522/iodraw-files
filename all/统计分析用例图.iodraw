@@ -11,10 +11,10 @@
           <mxGeometry x="400" y="120" width="720" height="840" as="geometry" />
         </mxCell>
         <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="300" width="80" height="160" as="geometry" />
+          <mxGeometry x="180" y="220" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="actor_finance" value="财务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="570" width="80" height="160" as="geometry" />
+          <mxGeometry x="170" y="520" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="830" width="80" height="160" as="geometry" />
