@@ -136,6 +136,11 @@
         <mxCell id="l_pp2" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" parent="1" source="r_p_pur" target="purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_pp2">
+          <mxGeometry x="-0.0719" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r_p_in" value="入库" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="560" y="375" width="60" height="50" as="geometry" />
         </mxCell>
@@ -395,7 +400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l_pt2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="615" y="605" width="20" height="20" as="geometry" />
+          <mxGeometry x="770" y="605" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3irSvdeiGmBHpKkpoKj-51" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="product" target="l_pc1_n">
           <mxGeometry relative="1" as="geometry">
