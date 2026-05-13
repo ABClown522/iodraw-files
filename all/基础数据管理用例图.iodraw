@@ -4,142 +4,142 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="基础数据管理用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="title" value="基础数据管理用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="20" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="system_boundary" value="基础数据管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="system_boundary" value="基础数据管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=21;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="120" width="1100" height="1150" as="geometry" />
         </mxCell>
-        <mxCell id="actor_admin" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="actor_admin" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="250" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="600" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="1000" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uc_type_manage" value="分类管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_type_manage" value="分类管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_brand_manage" value="品牌管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_brand_manage" value="品牌管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_product_manage" value="商品管理&#xa;(增删改查/上下架)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_product_manage" value="商品管理&#xa;(增删改查/上下架)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="320" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uc_upload_image" value="上传商品图片" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_upload_image" value="上传商品图片" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="800" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_store_manage" value="仓库管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_store_manage" value="仓库管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1030" y="210" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_place_manage" value="产地管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_place_manage" value="产地管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1000" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_unit_manage" value="单位管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_unit_manage" value="单位管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1000" y="460" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_supply_manage" value="供应商管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_supply_manage" value="供应商管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="500" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_product_list" value="查询商品列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_product_list" value="查询商品列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_store_list" value="查询仓库列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_store_list" value="查询仓库列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_brand_list" value="查询品牌列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_brand_list" value="查询品牌列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1000" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_type_tree" value="查询分类树" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_type_tree" value="查询分类树" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="780" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_unit_list" value="查询单位列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_unit_list" value="查询单位列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="780" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_place_list" value="查询产地列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_place_list" value="查询产地列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1000" y="780" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_supply_list" value="查询供应商列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_supply_list" value="查询供应商列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="920" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_verify_code" value="验证商品编码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_verify_code" value="验证商品编码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="920" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_product_inventory" value="查询商品库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_product_inventory" value="查询商品库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="1060" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_statistics" value="商品统计分析" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_statistics" value="商品统计分析" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="480" y="1170" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_type_manage" edge="1">
+        <mxCell id="link_admin_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_type_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_brand_manage" edge="1">
+        <mxCell id="link_admin_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_brand_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_product_manage" edge="1">
+        <mxCell id="link_admin_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_product_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_store_manage" edge="1">
+        <mxCell id="link_admin_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_store_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_place_manage" edge="1">
+        <mxCell id="link_admin_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_place_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_unit_manage" edge="1">
+        <mxCell id="link_admin_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_unit_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_supply_manage" edge="1">
+        <mxCell id="link_admin_7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_admin" target="uc_supply_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_product_list" edge="1">
+        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_product_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_store_list" edge="1">
+        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_store_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_brand_list" edge="1">
+        <mxCell id="link_warehouse_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_brand_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_type_tree" edge="1">
+        <mxCell id="link_warehouse_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_type_tree" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_unit_list" edge="1">
+        <mxCell id="link_warehouse_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_unit_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_place_list" edge="1">
+        <mxCell id="link_warehouse_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_place_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_verify_code" edge="1">
+        <mxCell id="link_warehouse_7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_verify_code" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_8" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_warehouse" target="uc_product_inventory" edge="1">
+        <mxCell id="link_warehouse_8" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_product_inventory" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_purchase" target="uc_supply_list" edge="1">
+        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_supply_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_purchase" target="uc_product_inventory" edge="1">
+        <mxCell id="link_purchase_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_product_inventory" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_purchase" target="uc_statistics" edge="1">
+        <mxCell id="link_purchase_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_statistics" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="extend_1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_upload_image" target="uc_product_manage" edge="1">
+        <mxCell id="extend_1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_upload_image" target="uc_product_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_product_manage" target="uc_type_tree" edge="1">
+        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_product_manage" target="uc_type_tree" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_product_manage" target="uc_brand_list" edge="1">
+        <mxCell id="include_2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_product_manage" target="uc_brand_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_product_manage" target="uc_store_list" edge="1">
+        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_product_manage" target="uc_store_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=12;" parent="1" source="uc_supply_manage" target="uc_supply_list" edge="1">
+        <mxCell id="include_4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_supply_manage" target="uc_supply_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
