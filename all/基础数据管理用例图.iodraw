@@ -44,7 +44,7 @@
           <mxGeometry x="750" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_brand_list" value="查询品牌列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="640" width="160" height="80" as="geometry" />
+          <mxGeometry x="1100" y="580" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_type_tree" value="查询分类树" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="780" width="160" height="80" as="geometry" />
@@ -121,16 +121,10 @@
         <mxCell id="extend_1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=24;" parent="1" source="uc_upload_image" target="uc_product_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=24;" parent="1" source="uc_product_manage" target="uc_type_tree" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="include_2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=24;" parent="1" source="uc_product_manage" target="uc_brand_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=24;" parent="1" source="uc_product_manage" target="uc_store_list" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="include_4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=24;" parent="1" source="uc_supply_manage" target="uc_supply_list" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uc_upload_image" value="上传商品图片" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
