@@ -16,13 +16,13 @@
         <mxCell id="timer" value="定时器&lt;br style=&quot;font-size: 12px;&quot;&gt;(setInterval)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="120" y="220" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="axios" value="Axios请求&lt;br style=&quot;font-size: 12px;&quot;&gt;GET /statistics/*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="axios" value="Axios请求&lt;br style=&quot;font-size: 12px;&quot;&gt;GET /statistics/*" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="json-data" value="接收JSON数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="json-data" value="接收JSON数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="120" y="500" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="echarts" value="ECharts图表渲染&lt;br style=&quot;font-size: 12px;&quot;&gt;(柱状图/折线图/饼图)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="echarts" value="ECharts图表渲染&lt;br style=&quot;font-size: 12px;&quot;&gt;(柱状图/折线图/饼图)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="120" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="backend-layer" value="后端层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
