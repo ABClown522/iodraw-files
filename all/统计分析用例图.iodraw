@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="统计分析用例图" id="0">
-    <mxGraphModel dx="2490" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="170" y="520" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="830" width="80" height="160" as="geometry" />
+          <mxGeometry x="170" y="760" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uc_inventory_stats" value="库存统计&#xa;(库存量/分类)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="200" width="160" height="80" as="geometry" />
