@@ -7,7 +7,7 @@
         <mxCell id="title" value="统计数据流图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="434" y="30" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="frontend-layer" value="前端层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;verticalAlign=top;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="frontend-layer" value="前端层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="100" width="240" height="600" as="geometry" />
         </mxCell>
         <mxCell id="dashboard" value="统计仪表盘页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="echarts" value="ECharts图表渲染&lt;br style=&quot;font-size: 12px;&quot;&gt;(柱状图/折线图/饼图)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="120" y="580" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="backend-layer" value="后端层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;verticalAlign=top;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="backend-layer" value="后端层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="100" width="280" height="600" as="geometry" />
         </mxCell>
         <mxCell id="controller" value="StatisticsController&lt;br style=&quot;font-size: 12px;&quot;&gt;统计控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontColor=default;" parent="1" vertex="1">
