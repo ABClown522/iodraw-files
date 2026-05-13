@@ -262,11 +262,8 @@
         <mxCell id="r_u_out" value="办理" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="330" y="450" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l_uout1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="user" target="r_u_out" edge="1">
+        <mxCell id="l_uout1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_uout1_1" target="r_u_out" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l_uout1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l_uout2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="outstore" target="r_u_out" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -277,11 +274,8 @@
         <mxCell id="r_u_tr" value="办理" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="470" y="510" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l_utr1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="user" target="r_u_tr" edge="1">
+        <mxCell id="l_utr1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_utr1_1" target="r_u_tr" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l_utr1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l_utr2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="transfer" target="r_u_tr" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -354,6 +348,24 @@
         </mxCell>
         <mxCell id="l_uin1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-16" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="user" target="l_uout1_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="351" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_uout1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-17" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="user" target="l_utr1_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="488" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_utr1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="320" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
