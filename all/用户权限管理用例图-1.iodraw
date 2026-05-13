@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="用户权限管理用例图" id="0">
-    <mxGraphModel dx="1172" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="340" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="actor_user" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="160" y="590" width="80" height="160" as="geometry" />
+          <mxGeometry x="150" y="650" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uc_user_manage" value="用户管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=19;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="200" width="160" height="80" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="500" y="600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_check_token" value="查询验证码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=19;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="780" y="850" width="160" height="80" as="geometry" />
+          <mxGeometry x="800" y="850" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_verify_auth" value="验证Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=19;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="790" y="710" width="160" height="80" as="geometry" />
