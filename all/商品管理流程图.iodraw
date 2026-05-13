@@ -113,37 +113,37 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="state_title" value="商品上下架流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="70" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="800" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="start3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="925" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="575" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="select_product2" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="925" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="575" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="arrow18" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" source="start3" target="select_product2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="check_state" value="当前状态?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="935" y="260" width="100" height="60" as="geometry" />
+          <mxGeometry x="585" y="990" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arrow19" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" source="select_product2" target="check_state" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="set_online" value="设置为上架状态&#xa;(up_down_state=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="800" y="360" width="120" height="50" as="geometry" />
+          <mxGeometry x="450" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arrow20" value="下架" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" source="check_state" target="set_online" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="set_offline" value="设置为下架状态&#xa;(up_down_state=0)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="360" width="120" height="50" as="geometry" />
+          <mxGeometry x="700" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arrow21" value="上架" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" source="check_state" target="set_offline" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="update_state" value="更新商品状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="925" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="575" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="arrow22" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="set_online" target="update_state" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="end3" value="操作成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="925" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="575" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="arrow24" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" source="update_state" target="end3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
