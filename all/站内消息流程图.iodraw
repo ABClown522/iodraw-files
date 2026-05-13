@@ -40,7 +40,7 @@
         <mxCell id="receiver-query" value="查询未读消息数量&lt;br style=&quot;font-size: 12px;&quot;&gt;(定时轮询)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="220" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="has-unread" value="有未读消息？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="has-unread" value="有未读消息？" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="770" y="300" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="show-badge" value="显示消息徽章&lt;br style=&quot;font-size: 12px;&quot;&gt;(红点提示)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
