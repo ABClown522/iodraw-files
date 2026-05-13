@@ -79,7 +79,7 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="attr9" value="操作人ID&#xa;(operator_id)" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="attr9" value="操作人ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="340" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="line9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="attr9" target="entity" edge="1">
@@ -88,7 +88,7 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="attr10" value="操作人姓名&#xa;(operator_name)" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="attr10" value="操作人姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="200" y="590" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="line10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="attr10" target="entity" edge="1">
