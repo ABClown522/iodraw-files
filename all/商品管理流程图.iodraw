@@ -4,193 +4,193 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="add_title" value="添加商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="add_title" value="添加商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="70" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="start1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="start1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="input_info" value="填写商品信息&#xa;(名称、编号、分类、&#xa;品牌、供应商等)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="input_info" value="填写商品信息&#xa;(名称、编号、分类、&#xa;品牌、供应商等)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="start1" target="input_info" edge="1">
+        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="start1" target="input_info" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="set_price" value="设置价格信息&#xa;(采购价、销售价、&#xa;会员价)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="set_price" value="设置价格信息&#xa;(采购价、销售价、&#xa;会员价)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="input_info" target="set_price" edge="1">
+        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="input_info" target="set_price" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="upload_image" value="上传商品图片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="upload_image" value="上传商品图片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="set_price" target="upload_image" edge="1">
+        <mxCell id="arrow3" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="set_price" target="upload_image" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="set_intro" value="填写商品介绍" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="set_intro" value="填写商品介绍" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="upload_image" target="set_intro" edge="1">
+        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="upload_image" target="set_intro" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="validate" value="数据验证" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="validate" value="数据验证" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="165" y="510" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="set_intro" target="validate" edge="1">
+        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="set_intro" target="validate" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="error1" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="error1" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow6" value="验证失败" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="validate" target="error1" edge="1">
+        <mxCell id="arrow6" value="验证失败" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="validate" target="error1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow7" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="error1" target="input_info" edge="1">
+        <mxCell id="arrow7" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" parent="1" source="error1" target="input_info" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="save_product" value="保存商品信息&#xa;到数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="save_product" value="保存商品信息&#xa;到数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow8" value="验证通过" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="validate" target="save_product" edge="1">
+        <mxCell id="arrow8" value="验证通过" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="validate" target="save_product" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="end1" value="添加成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="end1" value="添加成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow9" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="save_product" target="end1" edge="1">
+        <mxCell id="arrow9" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="save_product" target="end1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edit_title" value="修改商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="edit_title" value="修改商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="70" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="start2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="start2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="select_product" value="选择要修改的商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="select_product" value="选择要修改的商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow10" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="start2" target="select_product" edge="1">
+        <mxCell id="arrow10" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="start2" target="select_product" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="load_info" value="加载商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="load_info" value="加载商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow11" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="select_product" target="load_info" edge="1">
+        <mxCell id="arrow11" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="select_product" target="load_info" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="modify_info" value="修改商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="modify_info" value="修改商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow12" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="load_info" target="modify_info" edge="1">
+        <mxCell id="arrow12" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="load_info" target="modify_info" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="validate2" value="数据验证" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="validate2" value="数据验证" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow13" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="modify_info" target="validate2" edge="1">
+        <mxCell id="arrow13" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="modify_info" target="validate2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="error2" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="error2" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="705" y="410" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow14" value="验证失败" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="validate2" target="error2" edge="1">
+        <mxCell id="arrow14" value="验证失败" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="validate2" target="error2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow15" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="error2" target="modify_info" edge="1">
+        <mxCell id="arrow15" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" parent="1" source="error2" target="modify_info" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="update_product" value="更新商品信息&#xa;到数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="update_product" value="更新商品信息&#xa;到数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow16" value="验证通过" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="validate2" target="update_product" edge="1">
+        <mxCell id="arrow16" value="验证通过" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="validate2" target="update_product" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="end2" value="修改成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="end2" value="修改成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow17" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="update_product" target="end2" edge="1">
+        <mxCell id="arrow17" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="update_product" target="end2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="state_title" value="商品上下架流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="state_title" value="商品上下架流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="800" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="start3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="start3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="575" y="850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="select_product2" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="select_product2" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="575" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow18" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="start3" target="select_product2" edge="1">
+        <mxCell id="arrow18" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="start3" target="select_product2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="check_state" value="当前状态?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="check_state" value="当前状态?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="585" y="990" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow19" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="select_product2" target="check_state" edge="1">
+        <mxCell id="arrow19" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="select_product2" target="check_state" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="set_online" value="设置为上架状态&#xa;(up_down_state=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="set_online" value="设置为上架状态&#xa;(up_down_state=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="450" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arrow20" value="下架" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="check_state" target="set_online" edge="1">
+        <mxCell id="arrow20" value="下架" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="check_state" target="set_online" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="set_offline" value="设置为下架状态&#xa;(up_down_state=0)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="set_offline" value="设置为下架状态&#xa;(up_down_state=0)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="700" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arrow21" value="上架" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="check_state" target="set_offline" edge="1">
+        <mxCell id="arrow21" value="上架" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="check_state" target="set_offline" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="update_state" value="更新商品状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="update_state" value="更新商品状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="575" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow22" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="set_online" target="update_state" edge="1">
+        <mxCell id="arrow22" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" parent="1" source="set_online" target="update_state" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow23" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="set_offline" target="update_state" edge="1">
+        <mxCell id="arrow23" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" parent="1" source="set_offline" target="update_state" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="end3" value="操作成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="end3" value="操作成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="575" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow24" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="update_state" target="end3" edge="1">
+        <mxCell id="arrow24" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="update_state" target="end3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="delete_title" value="删除商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="delete_title" value="删除商品流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="800" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="start4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="start4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="145" y="850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="select_product3" value="选择要删除的商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="select_product3" value="选择要删除的商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="145" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow25" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="start4" target="select_product3" edge="1">
+        <mxCell id="arrow25" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="start4" target="select_product3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="confirm_delete" value="确认删除?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="confirm_delete" value="确认删除?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="155" y="990" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow26" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="select_product3" target="confirm_delete" edge="1">
+        <mxCell id="arrow26" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="select_product3" target="confirm_delete" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cancel" value="取消操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="cancel" value="取消操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="1000" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow27" value="否" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="confirm_delete" target="cancel" edge="1">
+        <mxCell id="arrow27" value="否" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="confirm_delete" target="cancel" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="delete_product" value="删除商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="delete_product" value="删除商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="145" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow28" value="是" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="confirm_delete" target="delete_product" edge="1">
+        <mxCell id="arrow28" value="是" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="confirm_delete" target="delete_product" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="end4" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="end4" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="145" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow29" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="1" source="delete_product" target="end4" edge="1">
+        <mxCell id="arrow29" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" source="delete_product" target="end4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
