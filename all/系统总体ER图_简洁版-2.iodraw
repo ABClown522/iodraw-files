@@ -209,7 +209,7 @@
           <mxGeometry x="850" y="630" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trace" value="产品追溯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="420" y="285" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_p_trace" value="追溯" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="60" height="50" as="geometry" />
