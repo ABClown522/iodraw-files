@@ -74,7 +74,7 @@
           <mxGeometry x="1050" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="store" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="360" width="100" height="50" as="geometry" />
+          <mxGeometry x="940" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_p_cat" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="60" height="50" as="geometry" />
@@ -120,6 +120,11 @@
         </mxCell>
         <mxCell id="l_ps2_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r_p_store">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r_p_store" value="存放" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="780" y="405" width="60" height="50" as="geometry" />
@@ -212,7 +217,7 @@
           <mxGeometry x="420" y="285" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r_p_trace" value="追溯" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="480" y="400" width="60" height="50" as="geometry" />
+          <mxGeometry x="530" y="380" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l_ptr1" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" parent="1" source="product" target="r_p_trace" edge="1">
           <mxGeometry relative="1" as="geometry" />
