@@ -38,7 +38,7 @@
           <mxGeometry x="490" y="990" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_load_auth_tree" value="查看Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="750" y="850" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="840" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_verify_token" value="主页信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="680" width="160" height="80" as="geometry" />
@@ -46,8 +46,8 @@
         <mxCell id="uc_check_token" value="查询验证码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_verify_auth" value="验证Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1000" width="160" height="80" as="geometry" />
+        <mxCell id="uc_verify_auth" value="验证Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=19;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="840" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="link_admin_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="actor_admin" target="uc_user_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
