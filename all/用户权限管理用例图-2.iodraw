@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="用户权限管理用例图" id="0">
-    <mxGraphModel dx="1992" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2490" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,13 +35,13 @@
           <mxGeometry x="500" y="500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_user_login" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="850" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="990" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_load_auth_tree" value="查看Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="850" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_verify_token" value="主页信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="850" width="160" height="80" as="geometry" />
+          <mxGeometry x="500" y="680" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_check_token" value="查询验证码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="1000" width="160" height="80" as="geometry" />
