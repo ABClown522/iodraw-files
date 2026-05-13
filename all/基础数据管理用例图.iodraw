@@ -32,7 +32,7 @@
           <mxGeometry x="770" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_unit_manage" value="单位管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="460" width="160" height="80" as="geometry" />
+          <mxGeometry x="280" y="470" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_supply_manage" value="供应商管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="500" width="160" height="80" as="geometry" />
@@ -78,11 +78,6 @@
         </mxCell>
         <mxCell id="link_admin_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="actor_admin" target="uc_store_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="link_admin_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="uc_upload_image" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000.1266575106597" y="362.2499533095589" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="link_admin_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="actor_admin" target="uc_unit_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
