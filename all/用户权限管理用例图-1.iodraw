@@ -11,7 +11,7 @@
           <mxGeometry x="350" y="120" width="1100" height="980" as="geometry" />
         </mxCell>
         <mxCell id="actor_admin" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="80" height="160" as="geometry" />
+          <mxGeometry x="160" y="360" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="actor_user" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="590" width="80" height="160" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="500" y="500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_user_login" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="850" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="740" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_load_auth_tree" value="查看Token" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="750" y="720" width="160" height="80" as="geometry" />
+          <mxGeometry x="760" y="720" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_verify_token" value="主页信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="690" width="160" height="80" as="geometry" />
+          <mxGeometry x="1010" y="670" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_check_token" value="查询验证码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="1000" width="160" height="80" as="geometry" />
