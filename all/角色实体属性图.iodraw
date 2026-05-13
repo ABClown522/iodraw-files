@@ -8,19 +8,19 @@
           <mxGeometry x="600" y="300" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="attr_role_id" value="角色ID（主键）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="300" y="180" width="140" height="70" as="geometry" />
+          <mxGeometry x="390" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="attr_role_name" value="角色名称" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="attr_role_code" value="角色标识" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="attr_role_state" value="1启用 0禁用" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="860" y="180" width="130" height="65" as="geometry" />
+          <mxGeometry x="810" y="190" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="attr_create_time" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="attr_role_desc" value="角色描述" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=18;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="780" y="450" width="120" height="60" as="geometry" />
@@ -41,6 +41,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="line6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;fontSize=18;" parent="1" source="entity_role" target="attr_role_desc" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktm8LobwaGq-YFgpTpgu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.647;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="attr_role_code" target="attr_role_code">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
