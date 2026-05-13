@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="权限实体属性图">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" pageWidth="1400" pageHeight="700">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- 中心实体 auth_info -->
+        <mxCell id="entity_auth" value="auth_info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="200" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 上方左 -->
+        <mxCell id="attr_auth_id" value="权限ID（主键）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="140" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 上方中左 -->
+        <mxCell id="attr_parent_id" value="父节点ID, 0为一级权限" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="160" height="75" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 上方中右 -->
+        <mxCell id="attr_auth_name" value="权限名称" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 上方右 -->
+        <mxCell id="attr_auth_type" value="1模块 2菜单 3按钮" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="850" y="180" width="150" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 左侧 -->
+        <mxCell id="attr_auth_state" value="1启用 0禁用" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="130" height="65" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 右侧 -->
+        <mxCell id="attr_auth_url" value="路由地址" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="880" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- 属性 - 下方 -->
+        <mxCell id="attr_order_num" value="权限顺序" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- 连接线 -->
+        <mxCell id="line1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_auth_id">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_parent_id">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_auth_name">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_auth_type">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_auth_state">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_auth_url">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="line7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" parent="1" source="entity_auth" target="attr_order_num">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
