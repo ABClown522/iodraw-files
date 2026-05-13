@@ -253,10 +253,7 @@
         <mxCell id="l_uin1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="user" target="r_u_in" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_uin1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="350" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="l_uin2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="instore" target="r_u_in" edge="1">
+        <mxCell id="l_uin2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_uin1_1" target="r_u_in" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_uin2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
@@ -348,6 +345,15 @@
         </mxCell>
         <mxCell id="l_upur1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-15" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="instore" target="l_uin1_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="675" as="sourcePoint" />
+            <mxPoint x="203" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_uin1_1" value="1" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="310" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
