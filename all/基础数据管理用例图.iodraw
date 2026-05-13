@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="基础数据管理用例图" id="0">
-    <mxGraphModel dx="1811" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="uc_store_manage" value="仓库管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="980" y="230" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uc_place_manage" value="产地管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_unit_manage" value="单位管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1000" y="460" width="160" height="80" as="geometry" />
@@ -82,8 +79,10 @@
         <mxCell id="link_admin_4" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="actor_admin" target="uc_store_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_admin_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="uc_upload_image" target="uc_place_manage" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="link_admin_5" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="uc_upload_image" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000.1266575106597" y="362.2499533095589" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="link_admin_6" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=24;" parent="1" source="actor_admin" target="uc_unit_manage" edge="1">
           <mxGeometry relative="1" as="geometry" />
