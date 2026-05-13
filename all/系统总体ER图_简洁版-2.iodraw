@@ -229,9 +229,6 @@
             <mxPoint x="1079.998157894737" y="605.7401315789473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l_spur2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="630" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="l_upur1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_pp2_n" target="r_u_pur" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -253,7 +250,7 @@
         <mxCell id="l_uout1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_uout1_1" target="r_u_out" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_uout2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="outstore" target="r_u_out" edge="1">
+        <mxCell id="l_uout2" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_spur2_n" target="r_u_out" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_uout2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
@@ -371,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l_pp2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="430" width="20" height="20" as="geometry" />
+          <mxGeometry x="250" y="435" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3irSvdeiGmBHpKkpoKj-38" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="user" target="l_upur2_n">
           <mxGeometry relative="1" as="geometry">
@@ -381,6 +378,15 @@
         </mxCell>
         <mxCell id="l_upur2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-40" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="outstore" target="l_spur2_n">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_spur2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="395" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
