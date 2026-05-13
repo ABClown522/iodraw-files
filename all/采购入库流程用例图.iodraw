@@ -1,76 +1,76 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="采购入库流程用例图" id="0">
-    <mxGraphModel dx="2490" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="采购入库流程用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="title" value="采购入库流程用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="20" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="system_boundary" value="采购入库流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=21;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="system_boundary" value="采购入库流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=22;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="700" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="actor_purchase" value="采购人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=22;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="300" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="actor_warehouse" value="仓库管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;fontSize=22;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="670" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uc_create_purchase" value="创建采购单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_create_purchase" value="创建采购单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_query_purchase" value="查询采购单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_query_purchase" value="查询采购单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_confirm_purchase" value="采购单入库确认" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_confirm_purchase" value="采购单入库确认" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_instore" value="确认入库" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_instore" value="确认入库" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="680" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_query_instore" value="查询入库单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_query_instore" value="查询入库单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="800" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_create_instore" value="创建入库单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_create_instore" value="创建入库单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="900" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_update_inventory" value="更新库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_update_inventory" value="更新库存" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="900" y="600" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_check_product" value="查询商品记录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_check_product" value="查询商品记录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="900" y="760" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uc_select_supplier" value="选择供应商" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uc_select_supplier" value="选择供应商" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="850" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_create_purchase" edge="1">
+        <mxCell id="link_purchase_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=22;" parent="1" source="actor_purchase" target="uc_create_purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_query_purchase" edge="1">
+        <mxCell id="link_purchase_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=22;" parent="1" source="actor_purchase" target="uc_query_purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_purchase_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_purchase" target="uc_confirm_purchase" edge="1">
+        <mxCell id="link_purchase_3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=22;" parent="1" source="actor_purchase" target="uc_confirm_purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_instore" edge="1">
+        <mxCell id="link_warehouse_1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=22;" parent="1" source="actor_warehouse" target="uc_instore" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=21;" parent="1" source="actor_warehouse" target="uc_query_instore" edge="1">
+        <mxCell id="link_warehouse_2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=22;" parent="1" source="actor_warehouse" target="uc_query_instore" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_create_purchase" target="uc_select_supplier" edge="1">
+        <mxCell id="include_1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=22;" parent="1" source="uc_create_purchase" target="uc_select_supplier" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_confirm_purchase" target="uc_create_instore" edge="1">
+        <mxCell id="include_3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=22;" parent="1" source="uc_confirm_purchase" target="uc_create_instore" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_instore" target="uc_update_inventory" edge="1">
+        <mxCell id="include_4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=22;" parent="1" source="uc_instore" target="uc_update_inventory" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="include_5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_instore" target="uc_check_product" edge="1">
+        <mxCell id="include_5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=22;" parent="1" source="uc_instore" target="uc_check_product" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="depend_1" value="" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=21;" parent="1" source="uc_query_purchase" target="uc_create_purchase" edge="1">
+        <mxCell id="depend_1" value="" style="endArrow=open;html=1;strokeColor=#666666;strokeWidth=1.5;dashed=1;fontSize=22;" parent="1" source="uc_query_purchase" target="uc_create_purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
