@@ -20,7 +20,7 @@
           <mxGeometry x="150" y="1000" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uc_type_manage" value="分类管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="180" width="160" height="80" as="geometry" />
+          <mxGeometry x="510" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uc_brand_manage" value="品牌管理&#xa;(增删改查)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="160" height="80" as="geometry" />
