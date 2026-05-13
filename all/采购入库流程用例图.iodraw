@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="采购入库流程用例图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="40" width="500" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="system_boundary" value="采购入库流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=3;fontSize=22;fontStyle=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="700" height="790" as="geometry" />
         </mxCell>
