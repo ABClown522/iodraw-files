@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="MessageFlow" name="站内消息流程图">
-    <mxGraphModel dx="996" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="640" y="490" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="show-list" value="显示消息列表：&lt;br style=&quot;font-size: 12px;&quot;&gt;• 消息标题&lt;br style=&quot;font-size: 12px;&quot;&gt;• 发送人&lt;br style=&quot;font-size: 12px;&quot;&gt;• 发送时间&lt;br style=&quot;font-size: 12px;&quot;&gt;• 已读/未读状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="640" y="570" width="140" height="100" as="geometry" />
+          <mxGeometry x="640" y="560" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="user-read" value="用户点击查看消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="820" y="570" width="140" height="50" as="geometry" />
