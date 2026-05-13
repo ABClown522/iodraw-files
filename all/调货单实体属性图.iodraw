@@ -25,7 +25,7 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="attr3" value="目标仓库ID&#xa;(target_store_id)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="attr3" value="目标仓库ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="line3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="attr3" target="entity" edge="1">
