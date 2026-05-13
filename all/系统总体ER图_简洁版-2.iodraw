@@ -136,8 +136,8 @@
         <mxCell id="l_pp2" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" parent="1" source="r_p_pur" target="purchase" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I3irSvdeiGmBHpKkpoKj-60" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_pp2">
-          <mxGeometry x="-0.0719" y="1" relative="1" as="geometry">
+        <mxCell id="I3irSvdeiGmBHpKkpoKj-62" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_pp2">
+          <mxGeometry x="-0.0908" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -163,9 +163,6 @@
           <mxGeometry x="680" y="460" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l_po2" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" parent="1" source="l_utr2_n" target="outstore" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I3irSvdeiGmBHpKkpoKj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_p_tr" target="transfer">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r_p_tr" value="调拨" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
