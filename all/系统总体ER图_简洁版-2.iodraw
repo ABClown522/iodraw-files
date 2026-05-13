@@ -284,7 +284,7 @@
           <mxGeometry x="780" y="660" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_u_prod" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="500" y="210" width="60" height="50" as="geometry" />
+          <mxGeometry x="625" y="180" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l_uprod1" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="l_ur1_m" target="r_u_prod" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l_uprod2_n" value="N" style="text;html=1;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="295" width="20" height="20" as="geometry" />
+          <mxGeometry x="660" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3irSvdeiGmBHpKkpoKj-6" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="r_p_trace" target="l_ptr2_n">
           <mxGeometry relative="1" as="geometry">
