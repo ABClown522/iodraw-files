@@ -14,7 +14,7 @@
           <mxGeometry x="150" y="300" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="actor_admin" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="600" width="60" height="120" as="geometry" />
+          <mxGeometry x="150" y="620" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="actor_superadmin" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="450" width="60" height="120" as="geometry" />
