@@ -4,127 +4,124 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="图4-2 用户登录时序图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="20" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="user" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="user" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="frontend" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="frontend" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="backend" value="后端Controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="backend" value="后端Controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="database" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="database" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="600" y="90" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="redis" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="redis" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="760" y="90" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="line1" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="line1" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="700" as="sourcePoint" />
             <mxPoint x="100" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="line2" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="line2" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="700" as="sourcePoint" />
             <mxPoint x="270" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="line3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="line3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="700" as="sourcePoint" />
             <mxPoint x="460" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="line4" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="line4" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="700" as="sourcePoint" />
             <mxPoint x="640" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="line5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="line5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="700" as="sourcePoint" />
             <mxPoint x="800" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg1" value="1: 输入用户名、密码、验证码" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg1" value="1: 输入用户名、密码、验证码" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="200" as="sourcePoint" />
             <mxPoint x="270" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg2" value="2: POST /login" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg2" value="2: POST /login" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="230" as="sourcePoint" />
             <mxPoint x="460" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg3" value="3: 验证验证码" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg3" value="3: 验证验证码" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="260" as="sourcePoint" />
             <mxPoint x="800" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg4" value="4: 验证通过" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg4" value="4: 验证通过" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="290" as="sourcePoint" />
             <mxPoint x="460" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg5" value="5: 查询用户信息" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg5" value="5: 查询用户信息" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="320" as="sourcePoint" />
             <mxPoint x="640" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg6" value="6: 返回用户信息" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg6" value="6: 返回用户信息" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="350" as="sourcePoint" />
             <mxPoint x="460" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg7" value="7: 验证密码(HMAC)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="msg7" value="7: 验证密码(HMAC)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="410" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msg8" value="8: 生成Token(UUID)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="msg8" value="8: 生成Token(UUID)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="410" y="430" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msg9" value="9: 查询用户权限" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg9" value="9: 查询用户权限" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="480" as="sourcePoint" />
             <mxPoint x="640" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg10" value="10: 返回权限列表" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg10" value="10: 返回权限列表" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="510" as="sourcePoint" />
             <mxPoint x="460" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg11" value="11: 存储Token和用户信息" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="msg11" value="11: 存储Token和用户信息" style="endArrow=classic;html=1;strokeWidth=2;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="540" as="sourcePoint" />
             <mxPoint x="800" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg12" value="12: 存储成功" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg12" value="12: 存储成功" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="570" as="sourcePoint" />
             <mxPoint x="460" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg13" value="13: 返回Token和用户信息" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg13" value="13: 返回Token和用户信息" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="600" as="sourcePoint" />
             <mxPoint x="270" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msg14" value="14: 显示登录成功，跳转首页" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;" parent="1" edge="1">
+        <mxCell id="msg14" value="14: 显示登录成功，跳转首页" style="endArrow=classic;html=1;strokeWidth=2;dashed=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="630" as="sourcePoint" />
             <mxPoint x="100" y="630" as="targetPoint" />
